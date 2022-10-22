@@ -19,4 +19,4 @@ The extension attribute will also display false for a computer that is compatibl
 
 **Installation**
 
-Copy the content of the script (.sh file) to a new Computer Extension Attribute or just download the existing Extension Attribute (.xml) file and upload it to the Computer Extension Attributes of your Jamf Pro server.
+Copy the content of the script (.sh file) to a new Computer Extension Attribute.
